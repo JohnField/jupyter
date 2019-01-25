@@ -1,1 +1,9 @@
-mount/.ipynb_checkpoints
+# Brute-force mount of user directory into repo
+# Commit what we want, ignore what we don't
+mount/.bash*
+mount/.cache
+mount/.config
+mount/.ipython
+mount/.local
+mount/.share
+mount/work/.ipynb_checkpoints
